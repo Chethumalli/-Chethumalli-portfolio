@@ -1,4 +1,4 @@
-# 🌐 Chethan Malli — Developer Portfolio
+# 🌐 Chethan Malli — Portfolio
 
 A modern **AI Developer Portfolio Website** built using **Next.js, React, Tailwind CSS, and Framer Motion**.
 
@@ -9,7 +9,7 @@ This portfolio showcases my **AI projects, web applications, GitHub activity, an
 
 ---
 
-# 🚀 Features
+## 🚀 Features
 
 ✨ Modern Developer Portfolio  
 ✨ Animated Hero Section  
@@ -24,7 +24,7 @@ This portfolio showcases my **AI projects, web applications, GitHub activity, an
 
 ---
 
-# 🧠 Tech Stack
+## 🧠 Tech Stack
 
 ## Frontend
 - Next.js
@@ -44,7 +44,7 @@ This portfolio showcases my **AI projects, web applications, GitHub activity, an
 
 ---
 
-# 📂 Project Structure
+## 📂 Project Structure
 
 ```
 chethan-portfolio
@@ -73,7 +73,7 @@ chethan-portfolio
 
 ---
 
-# 🧩 Featured Projects
+## 🧩 Featured Projects
 
 ## 📈 AI Stock Analyst
 
@@ -165,7 +165,7 @@ Automation
 
 ---
 
-# ⚙️ Installation
+## ⚙️ Installation
 
 Clone the repository
 
@@ -199,7 +199,7 @@ http://localhost:3000
 
 ---
 
-# 🚀 Deployment
+## 🚀 Deployment
 
 This project is deployed using **Vercel**.
 
@@ -223,7 +223,7 @@ https://chethumalli-portfolio-mrw9.vercel.app
 
 ---
 
-# 📬 Contact
+## 📬 Contact
 
 If you'd like to collaborate or discuss opportunities.
 
@@ -254,9 +254,3 @@ If you like this project, please consider giving it a **star ⭐ on GitHub.**
 AI Developer | Full Stack Developer
 
 I build **AI tools, web applications and automation systems that solve real world problems.**
-
----
-
-# 📜 License
-
-This project is licensed under the **MIT License.**
